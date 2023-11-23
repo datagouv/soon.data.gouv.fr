@@ -1,6 +1,6 @@
-# sorry.data.gouv.fr
+# soon.data.gouv.fr
 
-Maintenance page for data.gouv.fr.
+Page d'attente pour un site annoncé en data.gouv.fr.
 
 ## Credits
 
